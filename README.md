@@ -8,3 +8,7 @@ Containers have following problems:
 5. Distributing traffic is challenging
 
 So kubernetes is the containers management tools which automates container deployment, container scaling and container load balancing.
+
+**Kustomize**
+
+https://github.com/kubernetes-sigs/kustomize
